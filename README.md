@@ -16,7 +16,7 @@ This is a web-based Attendance Management System developed using Java, JSP, Serv
 * 🗄️ PostgreSQL Database Integration
 
 ---
-<img src="screenshots/dashbord.png" alt="Alt text" width="500"/>
+<img src="screenshots/login.png" alt="Alt text" width="700"/>
 ## 🛠️ Technologies Used
 
 * Java (JDK 17+)
@@ -37,6 +37,7 @@ This is a web-based Attendance Management System developed using Java, JSP, Serv
 
 ---
 
+<img src="screenshots/dashbord.png" alt="Alt text" width="700"/>
 ## 🗄️ Database Schema
 
 ### Employee Table
@@ -46,6 +47,7 @@ This is a web-based Attendance Management System developed using Java, JSP, Serv
 * email
 * department
 
+<img src="screenshots/attent.png" alt="Alt text" width="700"/>
 ### Attendance Table
 
 * id (Primary Key)
@@ -58,6 +60,8 @@ This is a web-based Attendance Management System developed using Java, JSP, Serv
 * status
 
 ---
+
+<img src="screenshots/edit.png" alt="Alt text" width="700"/>
 
 ## ⚙️ How to Run
 

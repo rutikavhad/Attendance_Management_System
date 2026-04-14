@@ -16,7 +16,7 @@ This is a web-based Attendance Management System developed using Java, JSP, Serv
 * 🗄️ PostgreSQL Database Integration
 
 ---
-
+<img src=".setting/screenshots/dashbord.png" alt="Alt text" width="500"/>
 ## 🛠️ Technologies Used
 
 * Java (JDK 17+)
